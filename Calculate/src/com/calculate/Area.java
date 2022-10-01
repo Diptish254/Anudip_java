@@ -13,7 +13,7 @@ public class Area implements Shape{    // area class to claculate the area imple
 	@Override
 	public int CircleArea(int radius) {                         //method for Circle
 		System.out.println("Area of Circle");
-		return (22/7)*radius*2;                            // return the area of circle 
+		return (22/7)*radius*radius;                            // return the area of circle 
 	}
 
 
