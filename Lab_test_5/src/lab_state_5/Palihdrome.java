@@ -9,7 +9,7 @@ import java.util.Scanner;
 public class Palihdrome {
 
 	 String user_string;                                              // data type to store user string          
-	 boolean check=true;               
+	              
 	 String rev=""; 
 	
 	 
